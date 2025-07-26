@@ -1,0 +1,50 @@
+{
+  "timeA": {
+    "tecnico": {
+      "id": 100,
+      "title": "Carlos Mendes",
+      "funcao": "Técnico"
+    },
+    "jogadores": [
+      { "id": 1, "title": "Lucas Silva", "numero": 10, "posicao": "Atacante" },
+      { "id": 2, "title": "Pedro Santos", "numero": 9, "posicao": "Atacante" },
+      { "id": 3, "title": "João Pereira", "numero": 8, "posicao": "Meio-campo" },
+      { "id": 4, "title": "Rafael Costa", "numero": 7, "posicao": "Meio-campo" },
+      { "id": 5, "title": "Bruno Lima", "numero": 6, "posicao": "Volante" },
+      { "id": 6, "title": "Felipe Rocha", "numero": 5, "posicao": "Zagueiro" },
+      { "id": 7, "title": "Gustavo Alves", "numero": 4, "posicao": "Zagueiro" },
+      { "id": 8, "title": "Diego Fernandes", "numero": 3, "posicao": "Lateral-direito" },
+      { "id": 9, "title": "André Melo", "numero": 2, "posicao": "Lateral-esquerdo" },
+      { "id": 10, "title": "Vinicius Gomes", "numero": 1, "posicao": "Goleiro" },
+      { "id": 11, "title": "Matheus Ribeiro", "numero": 11, "posicao": "Atacante" },
+      { "id": 12, "title": "Felipe Dias", "numero": 12, "posicao": "Meio-campo" },
+      { "id": 13, "title": "Marcos Oliveira", "numero": 13, "posicao": "Volante" },
+      { "id": 14, "title": "Roberto Souza", "numero": 14, "posicao": "Meio-campo" },
+      { "id": 15, "title": "Thiago Martins", "numero": 15, "posicao": "Atacante" }
+    ]
+  },
+  "timeB": {
+    "tecnico": {
+      "id": 200,
+      "title": "Ricardo Alves",
+      "funcao": "Técnico"
+    },
+    "jogadores": [
+      { "id": 101, "title": "Marcos Silva", "numero": 10, "posicao": "Atacante" },
+      { "id": 102, "title": "Lucas Pereira", "numero": 9, "posicao": "Atacante" },
+      { "id": 103, "title": "Eduardo Costa", "numero": 8, "posicao": "Meio-campo" },
+      { "id": 104, "title": "Bruno Santos", "numero": 7, "posicao": "Meio-campo" },
+      { "id": 105, "title": "Fábio Lima", "numero": 6, "posicao": "Volante" },
+      { "id": 106, "title": "Marcelo Rocha", "numero": 5, "posicao": "Zagueiro" },
+      { "id": 107, "title": "Carlos Almeida", "numero": 4, "posicao": "Zagueiro" },
+      { "id": 108, "title": "Felipe Melo", "numero": 3, "posicao": "Lateral-direito" },
+      { "id": 109, "title": "Gustavo Ribeiro", "numero": 2, "posicao": "Lateral-esquerdo" },
+      { "id": 110, "title": "Rodrigo Gomes", "numero": 1, "posicao": "Goleiro" },
+      { "id": 111, "title": "André Martins", "numero": 11, "posicao": "Atacante" },
+      { "id": 112, "title": "Thiago Dias", "numero": 12, "posicao": "Meio-campo" },
+      { "id": 113, "title": "Renato Oliveira", "numero": 13, "posicao": "Volante" },
+      { "id": 114, "title": "Marcelo Souza", "numero": 14, "posicao": "Meio-campo" },
+      { "id": 115, "title": "Rafael Martins", "numero": 15, "posicao": "Atacante" }
+    ]
+  }
+}
